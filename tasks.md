@@ -2,15 +2,15 @@
 
 ## <a id="サマリー"></a>サマリー
 
-| 優先  | 相手方      | 状況     | 担当 | 期限  | 詳細                 |
-| ----- | ----------- | -------- | ---- | ----- | -------------------- |
-| 🔴 高 | 内部        | こちら   | JPSI | -     | [詳細](#キックオフ)  |
-| 🔴 高 | 参加チーム  | こちら   | JPSI | 12/2  | [詳細](#参加チーム)  |
-| 🔴 高 | IB          | こちら   | JPSI | 12/5  | [詳細](#ib)          |
-| 🟡 中 | 大隈講堂    | 相手待ち | -    | -     | [詳細](#大隈講堂)    |
-| 🟡 中 | TradingView | こちら   | JPSI | 12/5  | [詳細](#tradingview) |
-| 🟡 中 | 音響の人    | こちら   | JPSI | 12/5  | [詳細](#音響の人)    |
-| 🟢 低 | 大西さん    | こちら   | 惠良 | 12/10 | [詳細](#大西さん)    |
+| 優先 | 相手方 | タスク内容 | 状況 | 担当 | 期限 | 詳細 |
+|------|--------|------------|------|------|------|------|
+| 🔴 高 | 内部 | キックオフ準備 | こちら | JPSI | - | [詳細](#キックオフ) |
+| 🔴 高 | 参加チーム | 支払いリマインド・メール対応 | こちら | JPSI | 12/2 | [詳細](#参加チーム) |
+| 🔴 高 | 大隈講堂 | 審査・下見日程調整 | 相手待ち | - | - | [詳細](#大隈講堂) |
+| 🟡 中 | TradingView | 参加校連絡・HP対応 | こちら | JPSI | 12/5 | [詳細](#tradingview) |
+| 🟡 中 | IB | ルールブック修正・書類作成 | こちら | JPSI | 12/5 | [詳細](#ib) |
+| 🟡 中 | 音響の人 | 下見日程連絡 | こちら | JPSI | 12/5 | [詳細](#音響の人) |
+| 🟢 低 | 大西さん | 文面確認・告知配信 | こちら | 惠良 | 12/10 | [詳細](#大西さん) |
 
 ---
 
@@ -42,26 +42,26 @@
 
 #### 参加大学一覧
 
-| 国 | 大学 | チーム名 | 参加意思 | 名簿記入 | 支払い | 最終連絡日 | 備考 |
-|----|------|----------|----------|----------|--------|------------|------|
-| 🇬🇧 イギリス① | University of Sheffield（QS 92位） | Investment Society | ✅ | ✅ | ✅ 11/25 | - | Yutaro Nagamori |
-| 🇨🇦 カナダ① | University of Alberta（QS 94位） | Business Finance Association | ✅ | ✅ | ✅ 11/28 | - | Brandon Choi |
-| 🇮🇳 インド① | IIT Roorkee | Finance Club IITR | ✅ | ✅ | ✅ 11/27 | - | Yash Kumar |
-| 🇩🇪 ドイツ② | RWTH Aachen | Aachen Investment Club | ✅ | ✅ | ✅ 11/27 | - | Mathis Makarski |
-| 🇲🇾 マレーシア | マレーシア国民大学（QS 138位） | Bursa Young Investor Club UKM | ✅ | ✅ | ✅ 11/25 | - | Teck Xiang Lau |
-| 🇦🇺 オーストラリア | UNSW（QS 19位） | Alternative Investment Society | ✅ | ✅ | ❌ | - | - |
-| 🇩🇪 ドイツ① | TU München | TU Investment Club e.V. | ✅ | ✅ | ❌ | - | - |
-| 🇨🇦 カナダ② | University of Toronto（QS 29位） | Rational Capital Investment Club | ✅ | ✅ | ❌ | - | - |
-| 🇯🇵 日本① | Waseda University | Forward Investment Club | ✅ | ✅ | ❌ | - | りさちゃんチーム |
-| 🇯🇵 日本② | 慶應義塾大学 | - | ✅ | ✅ | ❌ | 11/18 | 1人確定、チーム組成中 |
-| 🇮🇳 インド② | University of Delhi | Alpha Research & Investment Cell | ✅ | ✅ | ❌ | 11/17 | 電話でやり取り済み |
-| 🇺🇸 アメリカ② | Roger Williams University | MBA Program | ✅ | ✅ | ❌ | 11/15 | 教授経由 |
-| 🇺🇸 アメリカ① | UCLA（QS 42位） | - | ✅ | ⚠️ 要確認 | ❌ | - | 惠良の繋がり |
-| 🇬🇧 イギリス② | - | - | ✅ | ⚠️ 回答待ち | ❌ | 11/17 | ゼミの友達、11/22までと伝達済 |
-| 🇨🇭 スイス | - | - | ✅ | ⚠️ 契約中 | ❌ | 11/19 | 出場予定で調整中 |
-| 🇱🇻 ラトビア | - | - | ✅ | ⚠️ 未確定 | ❌ | - | スイスからの後押しあり |
-| ~~🇳🇿 ニュージーランド~~ | ~~-~~ | ~~-~~ | ❌ | ❌ | ❌ | - | 辞退 |
-| ~~🇨🇳 中国~~ | ~~-~~ | ~~-~~ | ❌ | ❌ | ❌ | 11/17 | 辞退 |
+| 国                      | 大学                                | チーム名                         | 参加意思 | 名簿記入    | 支払い   | 最終連絡日 | 備考                           |
+| ----------------------- | ----------------------------------- | -------------------------------- | -------- | ----------- | -------- | ---------- | ------------------------------ |
+| 🇬🇧 イギリス ①           | University of Sheffield（QS 92 位） | Investment Society               | ✅       | ✅          | ✅ 11/25 | -          | Yutaro Nagamori                |
+| 🇨🇦 カナダ ①             | University of Alberta（QS 94 位）   | Business Finance Association     | ✅       | ✅          | ✅ 11/28 | -          | Brandon Choi                   |
+| 🇮🇳 インド ①             | IIT Roorkee                         | Finance Club IITR                | ✅       | ✅          | ✅ 11/27 | -          | Yash Kumar                     |
+| 🇩🇪 ドイツ ②             | RWTH Aachen                         | Aachen Investment Club           | ✅       | ✅          | ✅ 11/27 | -          | Mathis Makarski                |
+| 🇲🇾 マレーシア           | マレーシア国民大学（QS 138 位）     | Bursa Young Investor Club UKM    | ✅       | ✅          | ✅ 11/25 | -          | Teck Xiang Lau                 |
+| 🇦🇺 オーストラリア       | UNSW（QS 19 位）                    | Alternative Investment Society   | ✅       | ✅          | ❌       | -          | -                              |
+| 🇩🇪 ドイツ ①             | TU München                          | TU Investment Club e.V.          | ✅       | ✅          | ❌       | -          | -                              |
+| 🇨🇦 カナダ ②             | University of Toronto（QS 29 位）   | Rational Capital Investment Club | ✅       | ✅          | ❌       | -          | -                              |
+| 🇯🇵 日本 ①               | Waseda University                   | Forward Investment Club          | ✅       | ✅          | ❌       | -          | りさちゃんチーム               |
+| 🇯🇵 日本 ②               | 慶應義塾大学                        | -                                | ✅       | ✅          | ❌       | 11/18      | 1 人確定、チーム組成中         |
+| 🇮🇳 インド ②             | University of Delhi                 | Alpha Research & Investment Cell | ✅       | ✅          | ❌       | 11/17      | 電話でやり取り済み             |
+| 🇺🇸 アメリカ ②           | Roger Williams University           | MBA Program                      | ✅       | ✅          | ❌       | 11/15      | 教授経由                       |
+| 🇺🇸 アメリカ ①           | UCLA（QS 42 位）                    | -                                | ✅       | ⚠️ 要確認   | ❌       | -          | 惠良の繋がり                   |
+| 🇬🇧 イギリス ②           | -                                   | -                                | ✅       | ⚠️ 回答待ち | ❌       | 11/17      | ゼミの友達、11/22 までと伝達済 |
+| 🇨🇭 スイス               | -                                   | -                                | ✅       | ⚠️ 契約中   | ❌       | 11/19      | 出場予定で調整中               |
+| 🇱🇻 ラトビア             | -                                   | -                                | ✅       | ⚠️ 未確定   | ❌       | -          | スイスからの後押しあり         |
+| ~~🇳🇿 ニュージーランド~~ | ~~-~~                               | ~~-~~                            | ❌       | ❌          | ❌       | -          | 辞退                           |
+| ~~🇨🇳 中国~~             | ~~-~~                               | ~~-~~                            | ❌       | ❌          | ❌       | 11/17      | 辞退                           |
 
 [↑ サマリーに戻る](#サマリー)
 
