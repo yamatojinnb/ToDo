@@ -2,7 +2,7 @@
 
 ## <a id="サマリー"></a>サマリー
 
-| 優先  | 相手方      | タスク内容                   | 状況     | 担当 | 期限  | 詳細                 |
+| 優先  | 相手方      | タスク内容                   | ボール   | 担当 | 期限  | 詳細                 |
 | ----- | ----------- | ---------------------------- | -------- | ---- | ----- | -------------------- |
 | 🔴 高 | 内部        | キックオフ準備               | こちら   | JPSI | -     | [詳細](#キックオフ)  |
 | 🔴 高 | 参加チーム  | 支払いリマインド・メール対応 | こちら   | JPSI | 12/2  | [詳細](#参加チーム)  |
@@ -18,7 +18,7 @@
 
 ### <a id="キックオフ"></a>🔴 キックオフ
 
-**状況:** こちら ｜ **担当:** JPSI ｜ **期限:** -
+**ボール:** こちら ｜ **担当:** JPSI ｜ **期限:** -
 
 - [ ] りさちゃんに共有
 - [ ] 資料の修正（IB ツール要件）
@@ -33,7 +33,7 @@
 
 ### <a id="参加チーム"></a>🔴 参加チーム
 
-**状況:** こちら ｜ **担当:** JPSI ｜ **期限:** 12/2
+**ボール:** こちら ｜ **担当:** JPSI ｜ **期限:** 12/2
 
 #### やること
 
@@ -42,34 +42,36 @@
 
 #### 参加大学一覧
 
-| 国 | 大学 | チーム名 | 参加意思 | 名簿記入 | 支払い | 備考 |
-|----|------|----------|----------|----------|--------|------|
-| 🇬🇧 イギリス① | University of Sheffield（QS 92位） | Investment Society | ✅ | ✅ | ✅ 11/25 | Yutaro Nagamori |
-| 🇨🇦 カナダ① | University of Alberta（QS 94位） | Business Finance Association | ✅ | ✅ | ✅ 11/28 | Brandon Choi |
-| 🇮🇳 インド① | IIT Roorkee | Finance Club IITR | ✅ | ✅ | ✅ 11/27 | Yash Kumar |
-| 🇩🇪 ドイツ② | RWTH Aachen | Aachen Investment Club | ✅ | ✅ | ✅ 11/27 | Mathis Makarski |
-| 🇲🇾 マレーシア | マレーシア国民大学（QS 138位） | Bursa Young Investor Club UKM | ✅ | ✅ | ✅ 11/25 | Teck Xiang Lau |
-| 🇦🇺 オーストラリア | UNSW（QS 19位） | Alternative Investment Society | ✅ | ✅ | ❌ | - |
-| 🇩🇪 ドイツ① | TU München | TU Investment Club e.V. | ✅ | ✅ | ❌ | - |
-| 🇨🇦 カナダ② | University of Toronto（QS 29位） | Rational Capital Investment Club | ✅ | ✅ | ❌ | - |
-| 🇯🇵 日本 | Waseda University | Forward Investment Club | ✅ | ✅ | ❌ | りさちゃんチーム |
-| 🇮🇳 インド② | University of Delhi | Alpha Research & Investment Cell | ✅ | ✅ | ❌ | 電話でやり取り済み |
-| 🇺🇸 アメリカ② | Roger Williams University | MBA Program | ✅ | ✅ | ❌ | 教授経由 |
-| 🇺🇸 アメリカ① | UCLA（QS 42位） | - | ✅ | ⚠️ 要確認 | ❌ | 惠良の繋がり |
-| 🇬🇧 イギリス② | - | - | ✅ | ⚠️ 回答待ち | ❌ | ゼミの友達、11/22までと伝達済 |
-| 🇨🇭 スイス | - | - | ✅ | ⚠️ 契約中 | ❌ | 出場予定で調整中 |
-| 🇱🇻 ラトビア | - | - | ✅ | ⚠️ 未確定 | ❌ | スイスからの後押しあり |
-| ~~🇳🇿 ニュージーランド~~ | ~~-~~ | ~~-~~ | ❌ | ❌ | ❌ | 辞退 |
-| ~~🇨🇳 中国~~ | ~~-~~ | ~~-~~ | ❌ | ❌ | ❌ | 辞退 |
+| 国                      | 大学                                | チーム名                         | 参加意思 | 名簿記入    | 支払い   | 備考                           |
+| ----------------------- | ----------------------------------- | -------------------------------- | -------- | ----------- | -------- | ------------------------------ |
+| 🇬🇧 イギリス ①           | University of Sheffield（QS 92 位） | Investment Society               | ✅       | ✅          | ✅ 11/25 | Yutaro Nagamori                |
+| 🇨🇦 カナダ ①             | University of Alberta（QS 94 位）   | Business Finance Association     | ✅       | ✅          | ✅ 11/28 | Brandon Choi                   |
+| 🇮🇳 インド ①             | IIT Roorkee                         | Finance Club IITR                | ✅       | ✅          | ✅ 11/27 | Yash Kumar                     |
+| 🇩🇪 ドイツ ②             | RWTH Aachen                         | Aachen Investment Club           | ✅       | ✅          | ✅ 11/27 | Mathis Makarski                |
+| 🇲🇾 マレーシア           | マレーシア国民大学（QS 138 位）     | Bursa Young Investor Club UKM    | ✅       | ✅          | ✅ 11/25 | Teck Xiang Lau                 |
+| 🇦🇺 オーストラリア       | UNSW（QS 19 位）                    | Alternative Investment Society   | ✅       | ✅          | ❌       | -                              |
+| 🇩🇪 ドイツ ①             | TU München                          | TU Investment Club e.V.          | ✅       | ✅          | ❌       | -                              |
+| 🇨🇦 カナダ ②             | University of Toronto（QS 29 位）   | Rational Capital Investment Club | ✅       | ✅          | ❌       | -                              |
+| 🇯🇵 日本                 | Waseda University                   | Forward Investment Club          | ✅       | ✅          | ❌       | りさちゃんチーム               |
+| 🇮🇳 インド ②             | University of Delhi                 | Alpha Research & Investment Cell | ✅       | ✅          | ❌       | 電話でやり取り済み             |
+| 🇺🇸 アメリカ ②           | Roger Williams University           | MBA Program                      | ✅       | ✅          | ❌       | 教授経由                       |
+| 🇺🇸 アメリカ ①           | UCLA（QS 42 位）                    | -                                | ✅       | ⚠️ 要確認   | ❌       | 惠良の繋がり                   |
+| 🇬🇧 イギリス ②           | -                                   | -                                | ✅       | ⚠️ 回答待ち | ❌       | ゼミの友達、11/22 までと伝達済 |
+| 🇨🇭 スイス               | -                                   | -                                | ✅       | ⚠️ 契約中   | ❌       | 出場予定で調整中               |
+| 🇱🇻 ラトビア             | -                                   | -                                | ✅       | ⚠️ 未確定   | ❌       | スイスからの後押しあり         |
+| ~~🇳🇿 ニュージーランド~~ | ~~-~~                               | ~~-~~                            | ❌       | ❌          | ❌       | 辞退                           |
+| ~~🇨🇳 中国~~             | ~~-~~                               | ~~-~~                            | ❌       | ❌          | ❌       | 辞退                           |
 
 [↑ サマリーに戻る](#サマリー)
 
 ---
 
-### <a id="ib"></a>🔴 IB
+### <a id="ib"></a>🟡 IB
 
-**状況:** こちら ｜ **担当:** JPSI ｜ **期限:** 12/5
+**ボール:** こちら ｜ **担当:** JPSI ｜ **期限:** 12/5
 
+- [x] ナスダック書類作成
+- [x] 熊谷教授のサイン
 - [ ] ルールブックの修正
 - [ ] 大学審査の書類作成
 
@@ -79,7 +81,7 @@
 
 ### <a id="大隈講堂"></a>🟡 大隈講堂
 
-**状況:** 相手待ち ｜ **担当:** - ｜ **期限:** -
+**ボール:** 相手待ち ｜ **担当:** - ｜ **期限:** -
 
 - [ ] 審査結果を待つ
 - [ ] 下見日程を調整
@@ -90,7 +92,7 @@
 
 ### <a id="tradingview"></a>🟡 TradingView
 
-**状況:** こちら ｜ **担当:** JPSI ｜ **期限:** 12/5
+**ボール:** こちら ｜ **担当:** JPSI ｜ **期限:** 12/5
 
 - [ ] 現状のキャッチアップ
 - [ ] 参加校の連絡
@@ -104,7 +106,7 @@
 
 ### <a id="音響の人"></a>🟡 音響の人
 
-**状況:** こちら ｜ **担当:** JPSI ｜ **期限:** 12/5
+**ボール:** こちら ｜ **担当:** JPSI ｜ **期限:** 12/5
 
 - [ ] 下見できる日時の連絡
 
@@ -114,7 +116,7 @@
 
 ### <a id="大西さん"></a>🟢 大西さん
 
-**状況:** こちら ｜ **担当:** 惠良 ｜ **期限:** 12/10
+**ボール:** こちら ｜ **担当:** 惠良 ｜ **期限:** 12/10
 
 - [ ] 文面の確認
 - [ ] 告知を流す
