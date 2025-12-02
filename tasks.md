@@ -204,7 +204,7 @@
 | 🇲🇾 マレーシア           | マレーシア国民大学（QS 138 位）     | Bursa Young Investor Club UKM    | ✅       | ✅          | ✅ 11/25 | Teck Xiang Lau                 |
 | 🇦🇺 オーストラリア       | UNSW（QS 19 位）                    | Alternative Investment Society   | ✅       | ✅          | ✅ 12/2  | -                              |
 | 🇩🇪 ドイツ ①             | TU München                          | TU Investment Club e.V.          | ✅       | ✅          | ❌       | -                              |
-| 🇨🇦 カナダ ②             | University of Toronto（QS 29 位）   | Rational Capital Investment Club | ✅       | ✅          | ❌       | -                              |
+| 🇨🇦 カナダ ②             | University of Toronto（QS 29 位）   | Rational Capital Investment Club | ✅       | ✅          | ⚠️ 対応待ち | -                              |
 | 🇯🇵 日本                 | Waseda University                   | Forward Investment Club          | ✅       | ✅          | ❌       | りさちゃんチーム               |
 | 🇮🇳 インド ②             | University of Delhi                 | Alpha Research & Investment Cell | ✅       | ✅          | ❌       | 電話でやり取り済み             |
 | 🇺🇸 アメリカ ②           | Roger Williams University           | MBA Program                      | ✅       | ✅          | ❌       | 教授経由                       |
